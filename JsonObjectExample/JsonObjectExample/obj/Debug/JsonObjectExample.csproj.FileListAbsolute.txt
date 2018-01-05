@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\bin\Debug\data\JSONdata.json
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\bin\Debug\JsonObjectExample.exe.config
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\bin\Debug\JsonObjectExample.exe
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\bin\Debug\JsonObjectExample.pdb
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\obj\Debug\JsonObjectExample.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\obj\Debug\JsonObjectExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\obj\Debug\JsonObjectExample.exe
+C:\Users\HP\source\repos\JsonObjectExample\JsonObjectExample\obj\Debug\JsonObjectExample.pdb
